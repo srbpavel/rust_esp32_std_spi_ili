@@ -1,0 +1,1000 @@
+ 1044  mosquitto_pub -h "192.168.0.103" -p 1883 -t "/grid_eye/simulator/cbea067504c34f9481f7950119d58160" -m "aaa"
+ 1045  mosquitto_sub -h "192.168.0.103" -p 1883 -t "/grid_eye/simulator/cbea067504c34f9481f7950119d58160"
+ 1046  mosquitto_sub -h "192.168.0.103" -p 1883 -t "/grid_eye/simulator/#"
+ 1047  . fuck queen
+ 1048  cd git/srbpavel/
+ 1049  ls -la
+ 1050  cdrust_esp32_std_amg8833
+ 1051  cd rust_esp32_std_amg8833
+ 1052  pwd
+ 1053  cat info.txt 
+ 1054  espmonitor --no-reset /dev/ttyACM1
+ 1055  history|tail
+ 1056  cat info.txt 
+ 1057  espmonitor --no-reset /dev/ttyACM1
+ 1058  cat info.txt 
+ 1059  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1060  emacs -nw 
+ 1061  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1062  date
+ 1063  history|tail
+ 1064  emacs -nw error_wifi_ssid.log 
+ 1065  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1066  /dev/ttyACM1
+ 1067  ls -la /dev/ttyACM1
+ 1068  ls -la /dev/ttyACM*
+ 1069  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1070  pwd
+ 1071  cargo clean
+ 1072  less main.rs
+ 1073  pwd
+ 1074  . fuck epi
+ 1075  thunderbird &
+ 1076  epi_influx.sh 2>/dev/null &
+ 1077  kill 9385
+ 1078  date
+ 1079  epi_influx.sh 2>/dev/null &
+ 1080  date
+ 1081  kill 3283810
+ 1082  thunderbird &
+ 1083  epi_influx.sh 2>/dev/null &
+ 1084  kill 600025
+ 1085  thunderbird &
+ 1086  epi_influx.sh 2>/dev/null &
+ 1087  kill 3430148
+ 1088  htop
+ 1089  epi_influx.sh 2>/dev/null &
+ 1090  kill 1261867
+ 1091  thunderbird &
+ 1092  epi_influx.sh 2>/dev/null &
+ 1093  kill 2546476
+ 1094  thunderbird &
+ 1095  epi_influx.sh 2>/dev/null &
+ 1096  kill 997535
+ 1097  date
+ 1098  htop
+ 1099  thunderbird &
+ 1100  epi_influx.sh 2>/dev/null &
+ 1101  . fuck queen
+ 1102  cd git/srbpavel/rust_esp32_std_amg8833/
+ 1103  ls -la
+ 1104  cat info.txt 
+ 1105  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1106  ls -la /dev/ttyACM*
+ 1107  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1108  cat info.txt 
+ 1109  ls -la
+ 1110  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1111  ls -la /dev/ttyACM*
+ 1112  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1113  ls -la /dev/ttyACM*
+ 1114  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1115  less backup/04_fucked_stack_overflow_display/src/main.rs
+ 1116  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1117  less backup/04_fucked_stack_overflow_display/src/main.rs
+ 1118  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1119  cat -n info.txt 
+ 1120  espmonitor --no-reset /dev/ttyACM1
+ 1121  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1122  espmonitor --no-reset /dev/ttyACM1
+ 1123  date
+ 1124  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1125  ls -la /dev/ttyACM*
+ 1126  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1127  espmonitor --no-reset /dev/ttyACM1
+ 1128  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1129  ls -la /dev/ttyACM*
+ 1130  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1131  espmonitor --no-reset /dev/ttyACM1
+ 1132  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1133  cargo espflash --help
+ 1134  cargo espflash board-info
+ 1135  cargo espflash board-info --port /dev/ttyACM1
+ 1136  cargo espflash flash --help
+ 1137  history
+ 1138  espmonitor --no-reset /dev/ttyACM1
+ 1139  ls -la /dev/ttyACM*
+ 1140  espmonitor --no-reset /dev/ttyACM1
+ 1141  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1142  ls -la /dev/ttyACM*
+ 1143  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1144  espmonitor --no-reset /dev/ttyACM1
+ 1145  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1146  ls -la /dev/ttyACM*
+ 1147  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1148  ls -la /dev/ttyACM*
+ 1149  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1150  espmonitor --no-reset /dev/ttyACM1
+ 1151  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1152  espmonitor --no-reset /dev/ttyACM1
+ 1153  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1154  espmonitor --no-reset /dev/ttyACM1
+ 1155  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1156  ls -la /dev/ttyACM*
+ 1157  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1158  ls -la /dev/ttyACM*
+ 1159  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1160  espmonitor --no-reset /dev/ttyACM1
+ 1161  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1162  espmonitor --no-reset /dev/ttyACM1
+ 1163  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1164  date
+ 1165  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1166  ls -la /dev/ttyACM*
+ 1167  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1168  espmonitor --no-reset /dev/ttyACM1
+ 1169  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1170  ls -la /dev/ttyACM*
+ 1171  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1172  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1173  espmonitor --no-reset /dev/ttyACM1
+ 1174  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1175  espmonitor --no-reset /dev/ttyACM1
+ 1176  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1177  ls -la /dev/ttyACM*
+ 1178  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1179  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1180  espmonitor --no-reset /dev/ttyACM1
+ 1181  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1182  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1183  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1184  ls -la /dev/ttyACM*
+ 1185  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1186  espmonitor --no-reset /dev/ttyACM1
+ 1187  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1188  ls -la /dev/ttyACM*
+ 1189  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1190  ls -la /dev/ttyACM*
+ 1191  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1192  ls -la /dev/ttyACM*
+ 1193  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1194  ls -la /dev/ttyACM*
+ 1195  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1196  espmonitor --no-reset /dev/ttyACM1
+ 1197  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1198  espmonitor --no-reset /dev/ttyACM1
+ 1199  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1200  ls -la /dev/ttyACM*
+ 1201  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1202  ls -la /dev/ttyACM*
+ 1203  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1204  ls -la /dev/ttyACM*
+ 1205  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1206  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1207  date
+ 1208  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1209  cp cfg_queen.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1210  espmonitor --no-reset /dev/ttyACM0
+ 1211  cd /home/conan/git/srbpavel/rust_esp32_std_amg8833
+ 1212  . fuck amg_build
+ 1213  ls -la
+ 1214  cat info.txt 
+ 1215  cargo check
+ 1216  cargo build --release
+ 1217  date
+ 1218  cargo build --release
+ 1219  cargo check
+ 1220  cargo build --release
+ 1221  cargo check
+ 1222  cargo build --release
+ 1223  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1224  cargo check
+ 1225  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1226  date
+ 1227  cargo check
+ 1228  mc
+ 1229  cargo check
+ 1230  mc
+ 1231  cargo check
+ 1232  mc
+ 1233  cargo check
+ 1234  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1235  cargo check
+ 1236  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1237  cargo check
+ 1238  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1239  cargo check
+ 1240  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1241  cargo check
+ 1242  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1243  cargo clean
+ 1244  cargo check
+ 1245  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1246  cargo check
+ 1247  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1248  cargo clean
+ 1249  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1250  cargo clean
+ 1251  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1252  mc
+ 1253  cargo check
+ 1254  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1255  cargo check
+ 1256  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1257  mc
+ 1258  cargo check
+ 1259  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1260  cargo check
+ 1261  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1262  cargo check
+ 1263  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1264  cargo check
+ 1265  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1266  cargo check
+ 1267  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1268  cargo check
+ 1269  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1270  cargo check
+ 1271  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1272  cargo check
+ 1273  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1274  cargo check
+ 1275  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1276  cargo check
+ 1277  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1278  cargo check
+ 1279  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1280  cargo check
+ 1281  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1282  cargo check
+ 1283  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1284  cargo check
+ 1285  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1286  cargo check
+ 1287  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1288  cargo check
+ 1289  mc
+ 1290  cargo check
+ 1291  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1292  cargo check
+ 1293  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1294  cargo check
+ 1295  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1296  cargo check
+ 1297  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1298  cargo check
+ 1299  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1300  cargo check
+ 1301  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1302  date
+ 1303  mc
+ 1304  date
+ 1305  cargo check
+ 1306  date
+ 1307  cargo check
+ 1308  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1309  cargo check
+ 1310  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1311  cargo check
+ 1312  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1313  cargo check
+ 1314  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1315  cargo check
+ 1316  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1317  cargo check
+ 1318  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1319  cargo check
+ 1320  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1321  cargo check
+ 1322  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1323  cargo check
+ 1324  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1325  cargo check
+ 1326  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1327  cargo check
+ 1328  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1329  cargo check
+ 1330  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1331  cargo check
+ 1332  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1333  cargo check
+ 1334  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1335  cargo check
+ 1336  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1337  cargo check
+ 1338  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1339  cargo check
+ 1340  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1341  mc
+ 1342  cargo check
+ 1343  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1344  cargo check
+ 1345  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1346  cargo doc -p esp-idf-hal
+ 1347  mc
+ 1348  cargo check
+ 1349  history|tail -n20
+ 1350  history|less
+ 1351  cargo check
+ 1352  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1353  cargo check
+ 1354  mc
+ 1355  cargo check
+ 1356  df -H
+ 1357  cargo clean
+ 1358  df -H
+ 1359  cargo check
+ 1360  cargo doc -p esp-idf-hal
+ 1361  cargo check
+ 1362  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1363  cargo check
+ 1364  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1365  cargo check
+ 1366  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1367  cargo check
+ 1368  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1369  date
+ 1370  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1371  cargo check
+ 1372  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1373  cargo check
+ 1374  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1375  cargo check
+ 1376  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1377  cargo check
+ 1378  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1379  cargo check
+ 1380  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1381  cargo check
+ 1382  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1383  cargo check
+ 1384  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1385  cargo check
+ 1386  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1387  cargo check
+ 1388  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1389  cargo check
+ 1390  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1391  cargo check
+ 1392  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1393  mc
+ 1394  cargo check
+ 1395  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1396  cargo check
+ 1397  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1398  cargo check
+ 1399  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1400  cargo check
+ 1401  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1402  cargo check
+ 1403  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1404  cargo check
+ 1405  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1406  cargo check
+ 1407  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1408  cargo check
+ 1409  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1410  cargo check
+ 1411  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1412  cargo check
+ 1413  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1414  cargo check
+ 1415  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1416  cargo check
+ 1417  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1418  cargo check
+ 1419  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1420  cargo check
+ 1421  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1422  cargo check
+ 1423  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1424  cargo check
+ 1425  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1426  cargo check
+ 1427  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1428  cargo check
+ 1429  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1430  cargo check
+ 1431  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1432  cargo check
+ 1433  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1434  cargo check
+ 1435  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1436  cargo check
+ 1437  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1438  cargo check
+ 1439  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1440  cargo check
+ 1441  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1442  cargo check
+ 1443  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1444  date
+ 1445  cargo check
+ 1446  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1447  cargo check
+ 1448  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1449  cargo check
+ 1450  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1451  cargo check
+ 1452  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1453  cargo check
+ 1454  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1455  cargo check
+ 1456  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1457  cargo check
+ 1458  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1459  cargo check
+ 1460  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1461  cargo check
+ 1462  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1463  cargo check
+ 1464  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1465  cargo check
+ 1466  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1467  cargo check
+ 1468  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1469  cargo check
+ 1470  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1471  cargo check
+ 1472  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1473  cargo check
+ 1474  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1475  cargo check
+ 1476  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1477  cargo check
+ 1478  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1479  date
+ 1480  cargo check
+ 1481  date
+ 1482  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1483  date
+ 1484  cargo check
+ 1485  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1486  cargo check
+ 1487  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1488  cargo check
+ 1489  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1490  mc
+ 1491  cargo check
+ 1492  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1493  date
+ 1494  cargo check
+ 1495  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1496  cargo check
+ 1497  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1498  cargo check
+ 1499  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1500  cargo check
+ 1501  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1502  cargo check
+ 1503  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1504  cargo check
+ 1505  date
+ 1506  cargo check
+ 1507  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1508  cat -n info.txt 
+ 1509  cargo check
+ 1510  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1511  cargo check
+ 1512  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1513  cargo check
+ 1514  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1515  cargo check
+ 1516  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1517  cargo check
+ 1518  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1519  cargo check
+ 1520  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1521  cargo check
+ 1522  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1523  cargo check
+ 1524  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1525  cargo check
+ 1526  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1527  cargo check
+ 1528  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1529  cargo check
+ 1530  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1531  cargo check
+ 1532  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1533  cargo check
+ 1534  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1535  cargo check
+ 1536  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1537  cargo check
+ 1538  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1539  cargo check
+ 1540  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1541  cargo check
+ 1542  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1543  cargo check
+ 1544  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1545  cargo check
+ 1546  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1547  mc
+ 1548  cargo check
+ 1549  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1550  cargo check
+ 1551  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1552  cargo check
+ 1553  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1554  data
+ 1555  date
+ 1556  cargo check
+ 1557  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1558  cargo check
+ 1559  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1560  cargo check
+ 1561  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1562  date
+ 1563  cargo check
+ 1564  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1565  cargo check
+ 1566  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1567  mc
+ 1568  cargo check
+ 1569  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1570  df -H
+ 1571  cargo clean
+ 1572  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1573  cargo clean
+ 1574  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1575  cargo check
+ 1576  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1577  cargo check
+ 1578  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1579  cargo check
+ 1580  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1581  date
+ 1582  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1583  date
+ 1584  cargo check
+ 1585  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1586  cargo check
+ 1587  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1588  cargo check
+ 1589  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1590  cargo check
+ 1591  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1592  cargo check
+ 1593  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1594  cargo check
+ 1595  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1596  cargo check
+ 1597  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1598  cargo check
+ 1599  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1600  cargo check
+ 1601  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1602  cargo check
+ 1603  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1604  cargo check
+ 1605  cargo clean
+ 1606  cargo check
+ 1607  mc /home/conan/.cargo/registry/src/github.com-1ecc6299db9ec823/esp-idf-hal-0.41.2/src/
+ 1608  cargo clean
+ 1609  mc /home/conan/.cargo/registry/src/github.com-1ecc6299db9ec823/esp-idf-hal-0.41.2/src/
+ 1610  cargo clean --help
+ 1611  cat info.txt 
+ 1612  cargo help
+ 1613  cargo --version
+ 1614  cargo clean --help
+ 1615  cargo clean --release
+ 1616  cargo check
+ 1617  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1618  cargo check
+ 1619  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1620  cargo check
+ 1621  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1622  date
+ 1623  cargo check
+ 1624  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1625  cargo check
+ 1626  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1627  cargo check
+ 1628  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1629  cargo check
+ 1630  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1631  cargo check
+ 1632  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1633  cargo check
+ 1634  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1635  cargo check
+ 1636  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1637  cargo check
+ 1638  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1639  cargo check
+ 1640  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1641  cargo check
+ 1642  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1643  cargo check
+ 1644  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1645  cargo check
+ 1646  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1647  cargo check
+ 1648  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1649  cargo check
+ 1650  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1651  date
+ 1652  cargo check
+ 1653  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1654  date
+ 1655  cargo check
+ 1656  date
+ 1657  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1658  cargo check
+ 1659  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1660  cargo check
+ 1661  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1662  mc
+ 1663  cargo check
+ 1664  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1665  cargo check
+ 1666  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1667  mc
+ 1668  cargo check
+ 1669  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1670  mc
+ 1671  cargo check
+ 1672  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1673  cargo check
+ 1674  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1675  cargo check
+ 1676  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1677  cargo check
+ 1678  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1679  cargo check
+ 1680  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1681  date
+ 1682  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1683  cargo check
+ 1684  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1685  cargo check
+ 1686  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1687  cargo check
+ 1688  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1689  diff cfg_king.toml cfg_witch.toml
+ 1690  cargo check
+ 1691  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1692  cargo check
+ 1693  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1694  cargo check
+ 1695  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1696  cargo check
+ 1697  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1698  cargo check
+ 1699  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1700  cargo check
+ 1701  date
+ 1702  cargo check
+ 1703  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1704  cargo check
+ 1705  . fuck grideye_tui_run
+ 1706  history | egrep "2>"
+ 1707  cargo run --release 2>2_after_boot.log
+ 1708  . fuck radio
+ 1709  signal_radio 
+ 1710  radio_dvojka 
+ 1711  signal_radio 
+ 1712  country_radio 
+ 1713  radio_dvojka 
+ 1714  kiss_delta 
+ 1715  signal_radio 
+ 1716  kiss_delta 
+ 1717  ps faxu|egrep cargo
+ 1718  ps faxu|egrep flash
+ 1719  ps faxu|egrep esp
+ 1720  kill 2463736
+ 1721  cd git/srbpavel/rust_esp32_std_amg8833/
+ 1722  . fuck amg_emacs
+ 1723  pwd
+ 1724  emacs -nw `pwd`
+ 1725  /bin/su - root
+ 1726  . fuck simulator
+ 1727  cd ../grideye_amg8833_simulator
+ 1728  ls -la
+ 1729  emacs -nw `pwd`
+ 1730  cd /home/conan/git/srbpavel/rust_esp32_std_amg8833
+ 1731  . fuck wizard
+ 1732  ls -la
+ 1733  cat info.txt 
+ 1734  ls -la /dev | egrep "ttyACM"
+ 1735  echo "usb only adapter"
+ 1736  . fuck sim_build
+ 1737  cargo check
+ 1738  cargo build --release
+ 1739  cargo check
+ 1740  cargo build --release
+ 1741  cargo check
+ 1742  cargo build --release
+ 1743  cd git/srbpavel/grideye_tui/
+ 1744  . fuck grideye_tui_build
+ 1745  cargo check
+ 1746  cargo build --release
+ 1747  date
+ 1748  cargo check
+ 1749  cargo build --release
+ 1750  cargo check
+ 1751  cargo build --release
+ 1752  cargo clippy --help
+ 1753  cargo clippy
+ 1754  cargo check
+ 1755  cargo clippy
+ 1756  cargo check
+ 1757  cargo clippy
+ 1758  cargo check
+ 1759  cargo clippy
+ 1760  cargo check
+ 1761  cargo clippy
+ 1762  cargo check
+ 1763  cargo clippy
+ 1764  cargo check
+ 1765  cargo clippy
+ 1766  cargo check
+ 1767  cargo build --release
+ 1768  cargo check
+ 1769  cargo build --release
+ 1770  cargo check
+ 1771  cargo build --release
+ 1772  date
+ 1773  . fuck data
+ 1774  df -H
+ 1775  cd git/srbpavel/grideye_tui/
+ 1776  . fuck grideye_tui_emacs
+ 1777  emacs -nw `pwd`
+ 1778  . fuck witch
+ 1779  cat info.txt 
+ 1780  ls -la /dev | egrep "ttyACM"
+ 1781  espmonitor --no-reset /dev/ttyACM2
+ 1782  cp cfg_wizard.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM2
+ 1783  ls -la /dev | egrep "ttyACM"
+ 1784  cp cfg_wizard.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM3
+ 1785  ls -la
+ 1786  cp cfg_witch.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM3
+ 1787  /bin/su - root
+ 1788  . fuck sim_run
+ 1789  cargo run --release
+ 1790  date
+ 1791  . fuck grideye_tui_log
+ 1792  ls -la
+ 1793  watch -n0.1 "tail -n25 2_build.log"
+ 1794  watch -n0.1 "tail -n25 2_after_boot.log"
+ 1795  ls -la
+ 1796  watch -n0.1 "tail -n25 2_after_boot.log"
+ 1797  ls -la
+ 1798  cat n grideye_error_msg.log|less
+ 1799  less /home/conan/git/srbpavel/rust_esp32_std_amg8833/backup/13_mqtt_spawn/src/main.rs
+ 1800  less /home/conan/git/srbpavel/rust_esp32_std_amg8833/backup/12_cargo_newest/main.rs
+ 1801  less /home/conan/git/srbpavel/rust_esp32_std_amg8833/backup/12_cargo_newest/src/main.rs
+ 1802  . fuck hibernation
+ 1803  pwd
+ 1804  emacs -nw 
+ 1805  /bin/su - root
+ 1806  cargo run --release
+ 1807  cargo run --release
+ 1808  . fuck error_msg
+ 1809  ls -la
+ 1810  watch -n0.1 "tail -n50 grideye_error_msg.log"
+ 1811  cp grideye_error_msg.log 02_grideye_error_msg.log 
+ 1812  ls -la
+ 1813  du -sh 02_grideye_error_msg.log
+ 1814  cat -n 02_grideye_error_msg.log|less
+ 1815  watch -n0.1 "tail -n50 grideye_error_msg.log"
+ 1816  cd /home/conan/git/srbpavel/rust_esp32_std_amg8833
+ 1817  . fuck king
+ 1818  cat info.txt 
+ 1819  espmonitor --no-reset /dev/ttyACM0
+ 1820  diff cfg_king.toml cfg_queen.toml
+ 1821  cat -n info.txt 
+ 1822  ls -la /dev | egrep "ttyACM"
+ 1823  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1824  ls -la /dev | egrep "ttyACM"
+ 1825  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1826  cat -n info.txt 
+ 1827  ls -la /dev | egrep "ttyACM"
+ 1828  espmonitor --no-reset /dev/ttyACM0
+ 1829  ls -la /dev | egrep "ttyACM"
+ 1830  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1831  espmonitor --no-reset /dev/ttyACM0
+ 1832  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1833  ls -la /dev | egrep "ttyACM"
+ 1834  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1835  ls -la /dev | egrep "ttyACM"
+ 1836  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1837  ls -la /dev | egrep "ttyACM"
+ 1838  ls -la /dev | egrep "ttyACM"
+ 1839  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1840  ls -la /dev | egrep "ttyACM"
+ 1841  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1842  date
+ 1843  ls -la /dev | egrep "ttyACM"
+ 1844  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1845  ls -la /dev | egrep "ttyACM"
+ 1846  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1847  ls -la /dev | egrep "ttyACM"
+ 1848  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1849  ls -la /dev | egrep "ttyACM"
+ 1850  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1851  ls -la /dev | egrep "ttyACM"
+ 1852  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM1
+ 1853  ls -la /dev | egrep "ttyACM"
+ 1854  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1855  date
+ 1856  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1857  espmonitor --no-reset /dev/ttyACM0
+ 1858  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1859  espmonitor --no-reset /dev/ttyACM0
+ 1860  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1861  espmonitor --no-reset /dev/ttyACM0
+ 1862  ls -la /dev | egrep "ttyACM"
+ 1863  espmonitor --no-reset /dev/ttyACM0
+ 1864  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1865  date
+ 1866  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1867  espmonitor --no-reset /dev/ttyACM0
+ 1868  cp cfg_king.toml cfg.toml ; cargo espflash flash --release --monitor --port /dev/ttyACM0
+ 1869  ps faxu|egrep esp
+ 1870  kill 4978
+ 1871  htop
+ 1872  ps faxu|egrep icew
+ 1873  kill 2699770
+ 1874  mkdir strelba
+ 1875  df -H
+ 1876  chmod 644 *
+ 1877  df                                                                                                                                                           -H
+ 1878  df -H
+ 1879  umount /dev/sdb1
+ 1880  sync
+ 1881  df -H
+ 1882  pwd
+ 1883  less main.rs
+ 1884  cd ~/git/srbpavel/rust_esp32_std_amg8833/
+ 1885  . fuck amg_build
+ 1886  cat -n info.txt 
+ 1887  cargo check
+ 1888  cat -n info.txt 
+ 1889  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1890  date
+ 1891  echo 6
+ 1892  cargo check
+ 1893  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1894  cargo check
+ 1895  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1896  date
+ 1897  cargo check
+ 1898  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1899  date
+ 1900  echo "stack 50_000"
+ 1901  cargo check
+ 1902  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1903  date
+ 1904  echo "wifi None instead Some(nvs)"
+ 1905  cargo check
+ 1906  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1907  echo "60000"
+ 1908  echo "60000 + none"
+ 1909  date
+ 1910  cargo check
+ 1911  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1912  echo "no sender wifi"
+ 1913  date
+ 1914  cargo check
+ 1915  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1916  date
+ 1917  echo "render ssd clone remove"
+ 1918  cargo check
+ 1919  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1920  date
+ 1921  echo "ssd cfg false"
+ 1922  cargo clean
+ 1923  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1924  date
+ 1925  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 1926  date
+ 1927  cargo clean
+ 1928  df -H
+ 1929  cargo check
+ 1930  cargo build --release --target riscv32imccargo clean
+ 1931  ps faxu|egrep thunder
+ 1932  ps faxu|egrep iced
+ 1933  ps faxu|egrep influx
+ 1934  ps faxu|egrep - influx
+ 1935  ps faxu|egrep -i influx
+ 1936  kill 5473
+ 1937  ps faxu|egrep -i thunder
+ 1938  htop
+ 1939  . fuck terminal
+ 1940  ls -la
+ 1941  df -H
+ 1942  sync
+ 1943  ps faxu|egrep cargo
+ 1944  ps faxu|egrep grideye
+ 1945  ps faxu|egrep grideye -A3
+ 1946  ps faxu|egrep grideye -B3
+ 1947  kill 5115
+ 1948  ps faxu|egrep grideye -B3
+ 1949  /bin/su - root
+ 1950  mc
+ 1951  df -H
+ 1952  /bin/su - root
+ 1953  pwd
+ 1954  cargo run --release 2>2_asciinema.log
+ 1955  exit
+ 1956  wget -c https://github.com/asciinema/agg/releases/download/v1.4.3/agg-x86_64-unknown-linux-gnu
+ 1957  chmod 711 
+ 1958  chmod 711 agg-x86_64-unknown-linux-gnu
+ 1959  pwd
+ 1960  espmonitor --no-reset /dev/ttyACM2
+ 1961  exit
+ 1962  ls -la
+ 1963  agg 617379.cast 617379.gif
+ 1964  ./agg-x86_64-unknown-linux-gnu 617379.cast 617379.gif
+ 1965  ls -la
+ 1966  evince srb_pavel_cv_2022_cze.pdf &
+ 1967  pwd
+ 1968  evince *pdf&
+ 1969  cargo run --release 2>2_asciinema.log
+ 1970  exit
+ 1971  df -H
+ 1972  htop
+ 1973  ps faxu|egrep ice
+ 1974  /bin/su - root
+ 1975  cd git/srbpavel/rust_esp32_std_amg8833/
+ 1976  ls -la
+ 1977  df -H
+ 1978  du -sh data_*
+ 1979  du -sh data_*; date
+ 1980  exit
+ 1981  pwd
+ 1982  . fuck thunder
+ 1983  thunderbird &
+ 1984  cd soft/rust_code/
+ 1985  la
+ 1986  ls -la
+ 1987  mc
+ 1988  git clone https://github.com/embassy-rs/embassy.git
+ 1989  ls -la
+ 1990  . fuck embassy
+ 1991  cd embassy/
+ 1992  ls -la
+ 1993  mc
+ 1994  exit
+ 1995  exit
+ 1996  . fuck cargo_spi
+ 1997  ls -la
+ 1998  cargo generate esp-rs/esp-template
+ 1999  cargo generate --git https://github.com/esp-rs/esp-idf-template cargo
+ 2000  cargo --list
+ 2001  cargo generate --help
+ 2002  cargo generate --version
+ 2003  cargo update --help
+ 2004  cargo
+ 2005  cargo search cargo-generate
+ 2006  cargo update --help
+ 2007  cargo update --package cargo-generate
+ 2008  cargo install cargo-generate
+ 2009  cargo generate --git https://github.com/esp-rs/esp-idf-template cargo
+ 2010  ls -la
+ 2011  mc rust-esp32-std-spi-ili/ rust_esp32_std_spi_ili/
+ 2012  mv rust-esp32-std-spi-ili/ rust_esp32_std_spi_ili/
+ 2013  ls -la
+ 2014  cd rust_esp32_std_spi_ili
+ 2015* cargo c
+ 2016* 
+ 2017  rustc --version
+ 2018  rustc toolchain --list
+ 2019  rustc toolchain --help
+ 2020  cargo build --help
+ 2021  cargo --help
+ 2022  cargo --version
+ 2023  cargo --list
+ 2024  cargo toolchain --help
+ 2025  cargo --list
+ 2026  cargo --version
+ 2027  rustup --help
+ 2028  rustup --version
+ 2029  rust toolchain --help
+ 2030  rustup toolchain --help
+ 2031  rustup toolchain help
+ 2032  rustup toolchain --list
+ 2033  rustup toolchain list
+ 2034  rustup help
+ 2035  rustup show
+ 2036  rustup check
+ 2037  rustup update
+ 2038  rustup show
+ 2039  rustup check
+ 2040  cargo check
+ 2041  cargo build --release --target riscv32imc-esp-espidf; ls -la /dev | egrep "ttyACM"
+ 2042  history|less
+ 2043  history > history_00_rustup_update_cargo_generate.txt
