@@ -17,8 +17,8 @@ use esp_idf_hal::gpio::PinDriver;
 use embedded_graphics::mono_font::ascii::FONT_6X10;
 use embedded_graphics::mono_font::MonoTextStyleBuilder;
 use embedded_graphics::text::Text;
-use embedded_graphics::Drawable;
 use embedded_graphics::draw_target::DrawTarget;
+use embedded_graphics::Drawable;
 use embedded_graphics::geometry::Point;
 
 const MACHINE_NAME: &str = "orc";
@@ -35,14 +35,23 @@ fn main() -> anyhow::Result<()> {
     let spi = peripherals.spi2; // spi1 doest not impl SpiAnyPins
         
     warn!("### pins");
+    // PINS
+    //
     // DO NOT USE gpio18 and gpio19 -> will BLOCK USB
+    //
+    // https://github.com/esp-rs/esp-idf-hal
+    // for ESP32-C3 DO NOT USE gpio12-gpio17
     //
     let pin_sclk = peripherals.pins.gpio0; // SCLK
     
     let pin_sdo = peripherals.pins.gpio1; // SDO/MISO
-    let _pin_sdi = peripherals.pins.gpio2; // SDI/MOSI
+    let pin_sdi = peripherals.pins.gpio2; // SDI/MOSI
     
     let pin_cs = peripherals.pins.gpio9; // CS
+    /*
+    warn!("### PinDriver CS: gpio9");
+    let cs = PinDriver::output(pin_cs)?;
+    */
     
     let pin_dc = peripherals.pins.gpio3; // DC
     warn!("### PinDriver DC: gpio3");
@@ -62,7 +71,8 @@ fn main() -> anyhow::Result<()> {
     
     let spi_config = esp_idf_hal::spi::config::Config::new()
         .baudrate(
-            26u32.MHz().into()
+            26.MHz().into()
+            //80.MHz().into()
         );
     
     if let Ok(spi_device_driver) = SpiDeviceDriver::new_single(
@@ -76,8 +86,8 @@ fn main() -> anyhow::Result<()> {
         pin_sdo,
         
         //sdi: Option<impl Peripheral<P = impl InputPin + OutputPin> + 'd>,
-        //Option::<AnyIOPin>::Some(pin_sdi.into()),
-        Option::<AnyIOPin>::None,
+        Option::<AnyIOPin>::Some(pin_sdi.into()),
+        //Option::<AnyIOPin>::None,
         
         //cs: Option<impl Peripheral<P = impl OutputPin> + 'd>,
         Option::<AnyOutputPin>::Some(pin_cs.into()),
@@ -90,22 +100,45 @@ fn main() -> anyhow::Result<()> {
         &spi_config,
     ) {
         warn!("### SPI SpiDeviceDriver.new_single() OK");
-        
+
+        // /* // NoCS
         let di = display_interface_spi::SPIInterfaceNoCS::new(
             // SPI: Write<u8> 
             spi_device_driver,
             // DC: OutputPin
             dc,
         );
+        // */
         
+        /* // Cs
+        let di = display_interface_spi::SPIInterface::new(
+            // SPI: Write<u8> 
+            spi_device_driver,
+            // DC: OutputPin
+            dc,
+            // CS : OutputPin
+            cs,
+        );
+        */
+
         // MIPIDSI
         warn!("### PinDriver RST: gpio4");
         let mut rst = esp_idf_hal::gpio::PinDriver::output(pin_rst)?;
-        warn!("### PinDriver RST set_high()");
-        rst.set_high()?;
 
-        let mut delay_spi = Ets {};
+        rst.set_high()?;
+        /*
+        Ets::delay_ms(1u32);
+        rst.set_low()?;
+        Ets::delay_ms(10u32);
+        rst.set_high()?;
+        */
         
+        let mut delay_spi = Ets {};
+
+        // https://docs.rs/mipidsi/0.7.1/mipidsi/struct.Builder.html
+        //
+        // reset pin needs to be in high state
+        //
         warn!("### MIPI init");
         let mut display_spi = mipidsi::Builder::ili9341_rgb666(di)
             .init(
@@ -130,6 +163,7 @@ fn main() -> anyhow::Result<()> {
             &format!("machine: {}", MACHINE_NAME),
             //point,
             Point::new(10, 10),
+            //style
             MonoTextStyleBuilder::new()
                 .font(&FONT_6X10)
                 .text_color(embedded_graphics::pixelcolor::RgbColor::YELLOW)
